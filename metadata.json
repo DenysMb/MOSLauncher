@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "denys.madureira@pm.me",
+                "Name": "Denys Madureira"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Description": "Application launcher for Margarida OS",
+        "EnabledByDefault": true,
+        "Icon": "start-here-kde-symbolic",
+        "Id": "io.github.DenysMb.MOSLauncher",
+        "License": "GPL-2.0-or-later",
+        "Name": "MOS Launcher",
+        "Version": "0.1.0",
+        "Website": "https://github.com/DenysMb/MOSLauncher"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}
